@@ -75,8 +75,7 @@ This project demonstrates the ability to:
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard](pizza-sales-dashboard.pbix)
+![Dashboard](https://raw.githubusercontent.com/anggitadc/pizza-sales-performance-dashboard/main/dashboard.png)
 
 ---
 
