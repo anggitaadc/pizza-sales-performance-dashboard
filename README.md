@@ -75,9 +75,5 @@ This project demonstrates the ability to:
 
 ---
 
-![Dashboard](https://raw.githubusercontent.com/anggitadc/pizza-sales-performance-dashboard/main/dashboard.png)
-
----
-
 ## 👤 Author
 Anggita Dwicahyani
