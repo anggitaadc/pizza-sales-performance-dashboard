@@ -76,7 +76,7 @@ This project demonstrates the ability to:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](pizza-sales-dashboard.png)
 
 ---
 
